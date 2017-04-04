@@ -1,0 +1,27 @@
+/*
+ * style.css
+ */
+.item, .item-active{
+	height:400px;
+	width:1150px;
+
+}
+
+.row clearfix{
+	color:#f4f4f4;
+	background: #f4f4f4;
+
+}
+
+.thumbnail{
+	background: #F2EDA7;
+
+}
+
+.thumbnail:hover {
+	opacity: .6;
+}
+
+.footer,.row,.footer-container{
+	color:#f4f4f4;
+}
